@@ -286,14 +286,14 @@ It also provides a foundation that can be expanded into a more advanced banking 
 
 ## Author
 
-**Name:** __________________________
+**Name:** Pratha Jain
 
-**Roll Number:** ___________________
+**Roll Number:** 26BSA10046
 
-**Course:** Python Programming
+**Course:** CSE_1021
 
 **Semester:** First Semester
 
-**College:** ________________________
+**College:** VIT BHOPAL
 
-**Academic Year:** _________________
+**Academic Year:** 2026-27
